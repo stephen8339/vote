@@ -22,34 +22,4 @@ if(isset($_POST['option'])){
         echo "<br>";
     }
 }
-
-//require_once 'allvote.php';
-
-//    echo "选项1：$result_option1_arr";
-//    echo "<br>";
-//
-//    echo "选项2：$result_option2_arr";
-//    echo "<br>";
-//
-//    echo "选项3：$result_option3_arr";
-//    echo "<br>";
-//
-//    echo "选项4：$result_option4_arr";
-//    echo "<br>";
-//
-//    echo "选项5：$result_option5_arr";
-//    echo "<br>";
-
-//$data1=$_GET['data1'];
-//$data2=$_GET['data2'];
-//$data3=$_GET['data3'];
-//$data4=$_GET['data4'];
-//$data5=$_GET['data5'];
-//
-//    echo "var option1=$result_option1_arr;";
-//    echo "var option2=$result_option2_arr;";
-//    echo "var option3=$result_option3_arr;";
-//    echo "var option4=$result_option4_arr;";
-//    echo "var option5=$result_option5_arr;";
-
 ?>
